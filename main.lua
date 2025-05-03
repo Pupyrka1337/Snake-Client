@@ -1,11 +1,11 @@
+-- SNAKE CLIENT ASCII Logo
 print([[
  SSSSS  N   N  AAAAA  K   K  EEEEE       CCCCC  L       III  EEEEE  N   N  TTTTT
  S      NN  N  A   A  K  K   E           C      L        I   E      NN  N    T
  SSSSS  N N N  AAAAA  KKK    EEEE        C      L        I   EEEE   N N N    T
-     S  N  NN  A   A  K  K   E           C      L        I   E      N  NN    T
+    S  N  NN  A   A  K  K   E           C      L        I   E      N  NN    T
  SSSSS  N   N  A   A  K   K  EEEEE       CCCCC  LLLLL   III  EEEEE  N   N    T
 ]])
-
 
 -- GUI Setup
 local ScreenGui = Instance.new("ScreenGui", game.CoreGui)
